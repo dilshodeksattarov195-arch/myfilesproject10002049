@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configualculate",
+        "uuid": 12427185,
+        "checksum": "bmcgqh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
